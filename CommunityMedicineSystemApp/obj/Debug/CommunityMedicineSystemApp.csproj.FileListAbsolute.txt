@@ -1,0 +1,156 @@
+E:\ftfl c#\AngularJS\CommunityMedicineSystemApp\CommunityMedicineSystemApp\bin\CommunityMedicineSystemApp.dll.config
+E:\ftfl c#\AngularJS\CommunityMedicineSystemApp\CommunityMedicineSystemApp\bin\CommunityMedicineSystemApp.dll
+E:\ftfl c#\AngularJS\CommunityMedicineSystemApp\CommunityMedicineSystemApp\bin\CommunityMedicineSystemApp.pdb
+E:\ftfl c#\AngularJS\CommunityMedicineSystemApp\CommunityMedicineSystemApp\bin\Antlr3.Runtime.dll
+E:\ftfl c#\AngularJS\CommunityMedicineSystemApp\CommunityMedicineSystemApp\bin\AspNet.ScriptManager.bootstrap.dll
+E:\ftfl c#\AngularJS\CommunityMedicineSystemApp\CommunityMedicineSystemApp\bin\AspNet.ScriptManager.jQuery.dll
+E:\ftfl c#\AngularJS\CommunityMedicineSystemApp\CommunityMedicineSystemApp\bin\EntityFramework.dll
+E:\ftfl c#\AngularJS\CommunityMedicineSystemApp\CommunityMedicineSystemApp\bin\EntityFramework.SqlServer.dll
+E:\ftfl c#\AngularJS\CommunityMedicineSystemApp\CommunityMedicineSystemApp\bin\Microsoft.AspNet.FriendlyUrls.dll
+E:\ftfl c#\AngularJS\CommunityMedicineSystemApp\CommunityMedicineSystemApp\bin\Microsoft.AspNet.Identity.Core.dll
+E:\ftfl c#\AngularJS\CommunityMedicineSystemApp\CommunityMedicineSystemApp\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\ftfl c#\AngularJS\CommunityMedicineSystemApp\CommunityMedicineSystemApp\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\ftfl c#\AngularJS\CommunityMedicineSystemApp\CommunityMedicineSystemApp\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+E:\ftfl c#\AngularJS\CommunityMedicineSystemApp\CommunityMedicineSystemApp\bin\Microsoft.Owin.dll
+E:\ftfl c#\AngularJS\CommunityMedicineSystemApp\CommunityMedicineSystemApp\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\ftfl c#\AngularJS\CommunityMedicineSystemApp\CommunityMedicineSystemApp\bin\Microsoft.Owin.Security.Cookies.dll
+E:\ftfl c#\AngularJS\CommunityMedicineSystemApp\CommunityMedicineSystemApp\bin\Microsoft.Owin.Security.dll
+E:\ftfl c#\AngularJS\CommunityMedicineSystemApp\CommunityMedicineSystemApp\bin\Microsoft.Owin.Security.Facebook.dll
+E:\ftfl c#\AngularJS\CommunityMedicineSystemApp\CommunityMedicineSystemApp\bin\Microsoft.Owin.Security.Google.dll
+E:\ftfl c#\AngularJS\CommunityMedicineSystemApp\CommunityMedicineSystemApp\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\ftfl c#\AngularJS\CommunityMedicineSystemApp\CommunityMedicineSystemApp\bin\Microsoft.Owin.Security.OAuth.dll
+E:\ftfl c#\AngularJS\CommunityMedicineSystemApp\CommunityMedicineSystemApp\bin\Microsoft.Owin.Security.Twitter.dll
+E:\ftfl c#\AngularJS\CommunityMedicineSystemApp\CommunityMedicineSystemApp\bin\Microsoft.ScriptManager.MSAjax.dll
+E:\ftfl c#\AngularJS\CommunityMedicineSystemApp\CommunityMedicineSystemApp\bin\Microsoft.ScriptManager.WebForms.dll
+E:\ftfl c#\AngularJS\CommunityMedicineSystemApp\CommunityMedicineSystemApp\bin\Microsoft.Web.Infrastructure.dll
+E:\ftfl c#\AngularJS\CommunityMedicineSystemApp\CommunityMedicineSystemApp\bin\Newtonsoft.Json.dll
+E:\ftfl c#\AngularJS\CommunityMedicineSystemApp\CommunityMedicineSystemApp\bin\Owin.dll
+E:\ftfl c#\AngularJS\CommunityMedicineSystemApp\CommunityMedicineSystemApp\bin\System.Web.Optimization.dll
+E:\ftfl c#\AngularJS\CommunityMedicineSystemApp\CommunityMedicineSystemApp\bin\System.Web.Providers.dll
+E:\ftfl c#\AngularJS\CommunityMedicineSystemApp\CommunityMedicineSystemApp\bin\WebGrease.dll
+E:\ftfl c#\AngularJS\CommunityMedicineSystemApp\CommunityMedicineSystemApp\bin\System.Web.Optimization.xml
+E:\ftfl c#\AngularJS\CommunityMedicineSystemApp\CommunityMedicineSystemApp\bin\Antlr3.Runtime.pdb
+E:\ftfl c#\AngularJS\CommunityMedicineSystemApp\CommunityMedicineSystemApp\bin\Newtonsoft.Json.xml
+E:\ftfl c#\AngularJS\CommunityMedicineSystemApp\CommunityMedicineSystemApp\bin\Microsoft.AspNet.FriendlyUrls.xml
+E:\ftfl c#\AngularJS\CommunityMedicineSystemApp\CommunityMedicineSystemApp\bin\EntityFramework.xml
+E:\ftfl c#\AngularJS\CommunityMedicineSystemApp\CommunityMedicineSystemApp\bin\EntityFramework.SqlServer.xml
+E:\ftfl c#\AngularJS\CommunityMedicineSystemApp\CommunityMedicineSystemApp\bin\Microsoft.AspNet.Identity.Core.xml
+E:\ftfl c#\AngularJS\CommunityMedicineSystemApp\CommunityMedicineSystemApp\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\ftfl c#\AngularJS\CommunityMedicineSystemApp\CommunityMedicineSystemApp\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\ftfl c#\AngularJS\CommunityMedicineSystemApp\CommunityMedicineSystemApp\bin\System.Web.Providers.xml
+E:\ftfl c#\AngularJS\CommunityMedicineSystemApp\CommunityMedicineSystemApp\bin\Microsoft.Owin.xml
+E:\ftfl c#\AngularJS\CommunityMedicineSystemApp\CommunityMedicineSystemApp\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\ftfl c#\AngularJS\CommunityMedicineSystemApp\CommunityMedicineSystemApp\bin\Microsoft.Owin.Security.xml
+E:\ftfl c#\AngularJS\CommunityMedicineSystemApp\CommunityMedicineSystemApp\bin\Microsoft.Owin.Security.Facebook.xml
+E:\ftfl c#\AngularJS\CommunityMedicineSystemApp\CommunityMedicineSystemApp\bin\Microsoft.Owin.Security.Cookies.xml
+E:\ftfl c#\AngularJS\CommunityMedicineSystemApp\CommunityMedicineSystemApp\bin\Microsoft.Owin.Security.Google.xml
+E:\ftfl c#\AngularJS\CommunityMedicineSystemApp\CommunityMedicineSystemApp\bin\Microsoft.Owin.Security.Twitter.xml
+E:\ftfl c#\AngularJS\CommunityMedicineSystemApp\CommunityMedicineSystemApp\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\ftfl c#\AngularJS\CommunityMedicineSystemApp\CommunityMedicineSystemApp\bin\Microsoft.Owin.Security.OAuth.xml
+E:\ftfl c#\AngularJS\CommunityMedicineSystemApp\CommunityMedicineSystemApp\obj\Debug\CommunityMedicineSystemApp.dll
+E:\ftfl c#\AngularJS\CommunityMedicineSystemApp\CommunityMedicineSystemApp\obj\Debug\CommunityMedicineSystemApp.pdb
+E:\ftfl c#\AngularJS\CommunityMedicineSystemApp\CommunityMedicineSystemApp\obj\Debug\CommunityMedicineSystemApp.csprojResolveAssemblyReference.cache
+E:\Projects\project\CommunityMedicineSystemApp\CommunityMedicineSystemApp\bin\CommunityMedicineSystemApp.dll.config
+E:\Projects\project\CommunityMedicineSystemApp\CommunityMedicineSystemApp\bin\CommunityMedicineSystemApp.dll
+E:\Projects\project\CommunityMedicineSystemApp\CommunityMedicineSystemApp\bin\CommunityMedicineSystemApp.pdb
+E:\Projects\project\CommunityMedicineSystemApp\CommunityMedicineSystemApp\bin\Antlr3.Runtime.dll
+E:\Projects\project\CommunityMedicineSystemApp\CommunityMedicineSystemApp\bin\AspNet.ScriptManager.bootstrap.dll
+E:\Projects\project\CommunityMedicineSystemApp\CommunityMedicineSystemApp\bin\AspNet.ScriptManager.jQuery.dll
+E:\Projects\project\CommunityMedicineSystemApp\CommunityMedicineSystemApp\bin\EntityFramework.dll
+E:\Projects\project\CommunityMedicineSystemApp\CommunityMedicineSystemApp\bin\EntityFramework.SqlServer.dll
+E:\Projects\project\CommunityMedicineSystemApp\CommunityMedicineSystemApp\bin\Microsoft.AspNet.FriendlyUrls.dll
+E:\Projects\project\CommunityMedicineSystemApp\CommunityMedicineSystemApp\bin\Microsoft.AspNet.Identity.Core.dll
+E:\Projects\project\CommunityMedicineSystemApp\CommunityMedicineSystemApp\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\Projects\project\CommunityMedicineSystemApp\CommunityMedicineSystemApp\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\Projects\project\CommunityMedicineSystemApp\CommunityMedicineSystemApp\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+E:\Projects\project\CommunityMedicineSystemApp\CommunityMedicineSystemApp\bin\Microsoft.Owin.dll
+E:\Projects\project\CommunityMedicineSystemApp\CommunityMedicineSystemApp\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\Projects\project\CommunityMedicineSystemApp\CommunityMedicineSystemApp\bin\Microsoft.Owin.Security.Cookies.dll
+E:\Projects\project\CommunityMedicineSystemApp\CommunityMedicineSystemApp\bin\Microsoft.Owin.Security.dll
+E:\Projects\project\CommunityMedicineSystemApp\CommunityMedicineSystemApp\bin\Microsoft.Owin.Security.Facebook.dll
+E:\Projects\project\CommunityMedicineSystemApp\CommunityMedicineSystemApp\bin\Microsoft.Owin.Security.Google.dll
+E:\Projects\project\CommunityMedicineSystemApp\CommunityMedicineSystemApp\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\Projects\project\CommunityMedicineSystemApp\CommunityMedicineSystemApp\bin\Microsoft.Owin.Security.OAuth.dll
+E:\Projects\project\CommunityMedicineSystemApp\CommunityMedicineSystemApp\bin\Microsoft.Owin.Security.Twitter.dll
+E:\Projects\project\CommunityMedicineSystemApp\CommunityMedicineSystemApp\bin\Microsoft.ScriptManager.MSAjax.dll
+E:\Projects\project\CommunityMedicineSystemApp\CommunityMedicineSystemApp\bin\Microsoft.ScriptManager.WebForms.dll
+E:\Projects\project\CommunityMedicineSystemApp\CommunityMedicineSystemApp\bin\Microsoft.Web.Infrastructure.dll
+E:\Projects\project\CommunityMedicineSystemApp\CommunityMedicineSystemApp\bin\Newtonsoft.Json.dll
+E:\Projects\project\CommunityMedicineSystemApp\CommunityMedicineSystemApp\bin\Owin.dll
+E:\Projects\project\CommunityMedicineSystemApp\CommunityMedicineSystemApp\bin\System.Web.Optimization.dll
+E:\Projects\project\CommunityMedicineSystemApp\CommunityMedicineSystemApp\bin\System.Web.Providers.dll
+E:\Projects\project\CommunityMedicineSystemApp\CommunityMedicineSystemApp\bin\WebGrease.dll
+E:\Projects\project\CommunityMedicineSystemApp\CommunityMedicineSystemApp\bin\System.Web.Optimization.xml
+E:\Projects\project\CommunityMedicineSystemApp\CommunityMedicineSystemApp\bin\Antlr3.Runtime.pdb
+E:\Projects\project\CommunityMedicineSystemApp\CommunityMedicineSystemApp\bin\Newtonsoft.Json.xml
+E:\Projects\project\CommunityMedicineSystemApp\CommunityMedicineSystemApp\bin\Microsoft.AspNet.FriendlyUrls.xml
+E:\Projects\project\CommunityMedicineSystemApp\CommunityMedicineSystemApp\bin\EntityFramework.xml
+E:\Projects\project\CommunityMedicineSystemApp\CommunityMedicineSystemApp\bin\EntityFramework.SqlServer.xml
+E:\Projects\project\CommunityMedicineSystemApp\CommunityMedicineSystemApp\bin\Microsoft.AspNet.Identity.Core.xml
+E:\Projects\project\CommunityMedicineSystemApp\CommunityMedicineSystemApp\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\Projects\project\CommunityMedicineSystemApp\CommunityMedicineSystemApp\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\Projects\project\CommunityMedicineSystemApp\CommunityMedicineSystemApp\bin\System.Web.Providers.xml
+E:\Projects\project\CommunityMedicineSystemApp\CommunityMedicineSystemApp\bin\Microsoft.Owin.xml
+E:\Projects\project\CommunityMedicineSystemApp\CommunityMedicineSystemApp\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\Projects\project\CommunityMedicineSystemApp\CommunityMedicineSystemApp\bin\Microsoft.Owin.Security.xml
+E:\Projects\project\CommunityMedicineSystemApp\CommunityMedicineSystemApp\bin\Microsoft.Owin.Security.Facebook.xml
+E:\Projects\project\CommunityMedicineSystemApp\CommunityMedicineSystemApp\bin\Microsoft.Owin.Security.Cookies.xml
+E:\Projects\project\CommunityMedicineSystemApp\CommunityMedicineSystemApp\bin\Microsoft.Owin.Security.Google.xml
+E:\Projects\project\CommunityMedicineSystemApp\CommunityMedicineSystemApp\bin\Microsoft.Owin.Security.Twitter.xml
+E:\Projects\project\CommunityMedicineSystemApp\CommunityMedicineSystemApp\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\Projects\project\CommunityMedicineSystemApp\CommunityMedicineSystemApp\bin\Microsoft.Owin.Security.OAuth.xml
+E:\Projects\project\CommunityMedicineSystemApp\CommunityMedicineSystemApp\obj\Debug\CommunityMedicineSystemApp.csprojResolveAssemblyReference.cache
+E:\Projects\project\CommunityMedicineSystemApp\CommunityMedicineSystemApp\obj\Debug\CommunityMedicineSystemApp.dll
+E:\Projects\project\CommunityMedicineSystemApp\CommunityMedicineSystemApp\obj\Debug\CommunityMedicineSystemApp.pdb
+E:\ftfl c#\Web\full\CommunityMedicineSystemApp\CommunityMedicineSystemApp\CommunityMedicineSystemApp\bin\CommunityMedicineSystemApp.dll.config
+E:\ftfl c#\Web\full\CommunityMedicineSystemApp\CommunityMedicineSystemApp\CommunityMedicineSystemApp\bin\CommunityMedicineSystemApp.dll
+E:\ftfl c#\Web\full\CommunityMedicineSystemApp\CommunityMedicineSystemApp\CommunityMedicineSystemApp\bin\CommunityMedicineSystemApp.pdb
+E:\ftfl c#\Web\full\CommunityMedicineSystemApp\CommunityMedicineSystemApp\CommunityMedicineSystemApp\bin\Antlr3.Runtime.dll
+E:\ftfl c#\Web\full\CommunityMedicineSystemApp\CommunityMedicineSystemApp\CommunityMedicineSystemApp\bin\AspNet.ScriptManager.bootstrap.dll
+E:\ftfl c#\Web\full\CommunityMedicineSystemApp\CommunityMedicineSystemApp\CommunityMedicineSystemApp\bin\AspNet.ScriptManager.jQuery.dll
+E:\ftfl c#\Web\full\CommunityMedicineSystemApp\CommunityMedicineSystemApp\CommunityMedicineSystemApp\bin\EntityFramework.dll
+E:\ftfl c#\Web\full\CommunityMedicineSystemApp\CommunityMedicineSystemApp\CommunityMedicineSystemApp\bin\EntityFramework.SqlServer.dll
+E:\ftfl c#\Web\full\CommunityMedicineSystemApp\CommunityMedicineSystemApp\CommunityMedicineSystemApp\bin\itextsharp.dll
+E:\ftfl c#\Web\full\CommunityMedicineSystemApp\CommunityMedicineSystemApp\CommunityMedicineSystemApp\bin\Microsoft.AspNet.FriendlyUrls.dll
+E:\ftfl c#\Web\full\CommunityMedicineSystemApp\CommunityMedicineSystemApp\CommunityMedicineSystemApp\bin\Microsoft.AspNet.Identity.Core.dll
+E:\ftfl c#\Web\full\CommunityMedicineSystemApp\CommunityMedicineSystemApp\CommunityMedicineSystemApp\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\ftfl c#\Web\full\CommunityMedicineSystemApp\CommunityMedicineSystemApp\CommunityMedicineSystemApp\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\ftfl c#\Web\full\CommunityMedicineSystemApp\CommunityMedicineSystemApp\CommunityMedicineSystemApp\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+E:\ftfl c#\Web\full\CommunityMedicineSystemApp\CommunityMedicineSystemApp\CommunityMedicineSystemApp\bin\Microsoft.Owin.dll
+E:\ftfl c#\Web\full\CommunityMedicineSystemApp\CommunityMedicineSystemApp\CommunityMedicineSystemApp\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\ftfl c#\Web\full\CommunityMedicineSystemApp\CommunityMedicineSystemApp\CommunityMedicineSystemApp\bin\Microsoft.Owin.Security.Cookies.dll
+E:\ftfl c#\Web\full\CommunityMedicineSystemApp\CommunityMedicineSystemApp\CommunityMedicineSystemApp\bin\Microsoft.Owin.Security.dll
+E:\ftfl c#\Web\full\CommunityMedicineSystemApp\CommunityMedicineSystemApp\CommunityMedicineSystemApp\bin\Microsoft.Owin.Security.Facebook.dll
+E:\ftfl c#\Web\full\CommunityMedicineSystemApp\CommunityMedicineSystemApp\CommunityMedicineSystemApp\bin\Microsoft.Owin.Security.Google.dll
+E:\ftfl c#\Web\full\CommunityMedicineSystemApp\CommunityMedicineSystemApp\CommunityMedicineSystemApp\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\ftfl c#\Web\full\CommunityMedicineSystemApp\CommunityMedicineSystemApp\CommunityMedicineSystemApp\bin\Microsoft.Owin.Security.OAuth.dll
+E:\ftfl c#\Web\full\CommunityMedicineSystemApp\CommunityMedicineSystemApp\CommunityMedicineSystemApp\bin\Microsoft.Owin.Security.Twitter.dll
+E:\ftfl c#\Web\full\CommunityMedicineSystemApp\CommunityMedicineSystemApp\CommunityMedicineSystemApp\bin\Microsoft.ScriptManager.MSAjax.dll
+E:\ftfl c#\Web\full\CommunityMedicineSystemApp\CommunityMedicineSystemApp\CommunityMedicineSystemApp\bin\Microsoft.ScriptManager.WebForms.dll
+E:\ftfl c#\Web\full\CommunityMedicineSystemApp\CommunityMedicineSystemApp\CommunityMedicineSystemApp\bin\Microsoft.Web.Infrastructure.dll
+E:\ftfl c#\Web\full\CommunityMedicineSystemApp\CommunityMedicineSystemApp\CommunityMedicineSystemApp\bin\Newtonsoft.Json.dll
+E:\ftfl c#\Web\full\CommunityMedicineSystemApp\CommunityMedicineSystemApp\CommunityMedicineSystemApp\bin\Owin.dll
+E:\ftfl c#\Web\full\CommunityMedicineSystemApp\CommunityMedicineSystemApp\CommunityMedicineSystemApp\bin\System.Web.Optimization.dll
+E:\ftfl c#\Web\full\CommunityMedicineSystemApp\CommunityMedicineSystemApp\CommunityMedicineSystemApp\bin\System.Web.Providers.dll
+E:\ftfl c#\Web\full\CommunityMedicineSystemApp\CommunityMedicineSystemApp\CommunityMedicineSystemApp\bin\WebGrease.dll
+E:\ftfl c#\Web\full\CommunityMedicineSystemApp\CommunityMedicineSystemApp\CommunityMedicineSystemApp\bin\System.Web.Optimization.xml
+E:\ftfl c#\Web\full\CommunityMedicineSystemApp\CommunityMedicineSystemApp\CommunityMedicineSystemApp\bin\Antlr3.Runtime.pdb
+E:\ftfl c#\Web\full\CommunityMedicineSystemApp\CommunityMedicineSystemApp\CommunityMedicineSystemApp\bin\Newtonsoft.Json.xml
+E:\ftfl c#\Web\full\CommunityMedicineSystemApp\CommunityMedicineSystemApp\CommunityMedicineSystemApp\bin\Microsoft.AspNet.FriendlyUrls.xml
+E:\ftfl c#\Web\full\CommunityMedicineSystemApp\CommunityMedicineSystemApp\CommunityMedicineSystemApp\bin\EntityFramework.xml
+E:\ftfl c#\Web\full\CommunityMedicineSystemApp\CommunityMedicineSystemApp\CommunityMedicineSystemApp\bin\EntityFramework.SqlServer.xml
+E:\ftfl c#\Web\full\CommunityMedicineSystemApp\CommunityMedicineSystemApp\CommunityMedicineSystemApp\bin\Microsoft.AspNet.Identity.Core.xml
+E:\ftfl c#\Web\full\CommunityMedicineSystemApp\CommunityMedicineSystemApp\CommunityMedicineSystemApp\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\ftfl c#\Web\full\CommunityMedicineSystemApp\CommunityMedicineSystemApp\CommunityMedicineSystemApp\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\ftfl c#\Web\full\CommunityMedicineSystemApp\CommunityMedicineSystemApp\CommunityMedicineSystemApp\bin\System.Web.Providers.xml
+E:\ftfl c#\Web\full\CommunityMedicineSystemApp\CommunityMedicineSystemApp\CommunityMedicineSystemApp\bin\Microsoft.Owin.xml
+E:\ftfl c#\Web\full\CommunityMedicineSystemApp\CommunityMedicineSystemApp\CommunityMedicineSystemApp\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\ftfl c#\Web\full\CommunityMedicineSystemApp\CommunityMedicineSystemApp\CommunityMedicineSystemApp\bin\Microsoft.Owin.Security.xml
+E:\ftfl c#\Web\full\CommunityMedicineSystemApp\CommunityMedicineSystemApp\CommunityMedicineSystemApp\bin\Microsoft.Owin.Security.Facebook.xml
+E:\ftfl c#\Web\full\CommunityMedicineSystemApp\CommunityMedicineSystemApp\CommunityMedicineSystemApp\bin\Microsoft.Owin.Security.Cookies.xml
+E:\ftfl c#\Web\full\CommunityMedicineSystemApp\CommunityMedicineSystemApp\CommunityMedicineSystemApp\bin\Microsoft.Owin.Security.Google.xml
+E:\ftfl c#\Web\full\CommunityMedicineSystemApp\CommunityMedicineSystemApp\CommunityMedicineSystemApp\bin\Microsoft.Owin.Security.Twitter.xml
+E:\ftfl c#\Web\full\CommunityMedicineSystemApp\CommunityMedicineSystemApp\CommunityMedicineSystemApp\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\ftfl c#\Web\full\CommunityMedicineSystemApp\CommunityMedicineSystemApp\CommunityMedicineSystemApp\bin\Microsoft.Owin.Security.OAuth.xml
+E:\ftfl c#\Web\full\CommunityMedicineSystemApp\CommunityMedicineSystemApp\CommunityMedicineSystemApp\obj\Debug\CommunityMedicineSystemApp.dll
+E:\ftfl c#\Web\full\CommunityMedicineSystemApp\CommunityMedicineSystemApp\CommunityMedicineSystemApp\obj\Debug\CommunityMedicineSystemApp.pdb
